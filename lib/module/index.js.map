@@ -1,0 +1,1 @@
+{"version":3,"names":["default","ImageGallery","ImageObject"],"sources":["index.ts"],"sourcesContent":["export { default as ImageGallery } from './ImageGallery';\nexport { ImageObject } from './types';\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,YAAY,QAAQ,gBAAgB;AACxD,SAASC,WAAW,QAAQ,SAAS","ignoreList":[]}
